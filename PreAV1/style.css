@@ -1,0 +1,79 @@
+p.questao_1{
+    color: yellow;
+    font-weight: 900;
+    font-style: italic;
+    font-family: Arial;
+    background-color: green;
+}
+
+.caixa {
+            height: 250px;
+            border: 2px solid #000;
+            margin-bottom: 20px;
+            padding: 15px;
+            font-size: 18px;
+}
+
+.questao_2a{
+    background-color: lightblue;
+}
+
+p.questao_2b{
+    color: lightgreen;
+}
+
+.questao_2c{
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-image: url('/src/img/test-image.jpg');
+}
+
+.questao_2d{
+    background-repeat: repeat-y;
+    background-image: url('/src/img/test-image.jpg');
+}
+
+.questao_2e{
+    background-repeat: no-repeat;
+    background-image: url('/src/img/test-image.jpg');
+}
+
+.questao_2f{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url('/src/img/test-image.jpg');
+}
+
+.questao_2g{
+    background-color: yellow;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+    background-image: url('/src/img/test-image.jpg');
+}
+
+#questao_3a{
+    font-family: Arial;
+    color: red;
+}
+
+#questao_3b{
+    font-family: Times;
+    font-size: 22;
+    color:green;
+}
+
+#questao_3c{
+    font-family:"Comic Sans Serif";
+    font-size: 20;
+    color: blue;
+    font-style: italic;
+}
+
+#questao_3d{
+    color: yellow;
+    font-style: bold;
+    font-size: 14;
+    font-weight: normal;
+    font-family: Verdana;
+}
